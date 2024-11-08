@@ -1,0 +1,13 @@
+Column Name,Description,type data
+Titre_appart,"Title of the listing, providing a brief description of the property.",object
+Localisation_appart,City where the property is located.,object
+Prix_appart,Rental price for the property; can specify monthly or nightly rates.,object
+N_chambre,Number of bedrooms in the property.,object
+N_douches,Number of bathrooms in the property.,object
+Surface_habitable,Habitable surface area of the property in square meters.,float64
+Type,Type of property and rental status.,object
+Secteur,Specific area or neighborhood within the city.,object
+Salons,Number of living rooms in the property.,float64
+Étage,Floor on which the property is located.,object
+Âge_du_bien,Age of the property.,object
+Link_appart,Link to the online listing for additional details.,object
